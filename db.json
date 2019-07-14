@@ -2,92 +2,92 @@
   "przedmioty": [
     {
       "id": 1,
-      "title": "Przedmiot1"
-      "shortDescription" : "Opis przedmiotu 1"
+      "title": "Przedmiot1",
+      "shortDescription" : "Opis przedmiotu 1",
       "imageUrl": "https://f00.esfr.pl/foto/9/34278802345/f6d821e44a0647f25798eb27e3f48df/msi-nightblade-mi3-7rb-087pl-intel-core-i5-8400-8gb-1tb-16gb-optane-gtx1050ti-w10,34278802345_3.jpg"
     },
     {
       "id": 2,
-      "title": "Przedmiot2"
-      "shortDescription" : "Opis przedmiotu 2"
+      "title": "Przedmiot2",
+      "shortDescription" : "Opis przedmiotu 2",
       "imageUrl": "https://f00.esfr.pl/foto/8/28571171697/88c4d1f8763969bc3923d05846d3fc7f/tracer-ofis-usb,28571171697_3.jpg"
     },
     {
       "id": 3,
-      "title": "Przedmiot3"
-      "shortDescription" : "Opis przedmiotu 3"
+      "title": "Przedmiot3",
+      "shortDescription" : "Opis przedmiotu 3",
       "imageUrl": "https://f00.esfr.pl/foto/7/14762679257/c97130695f055dee0781494ad860cd5d/tracer-blaster-x-rf-nano,14762679257_3.jpg"
     },
     {
       "id": 4,
-      "title": "Przedmiot4"
-      "shortDescription" : "Opis przedmiotu 4"
+      "title": "Przedmiot4",
+      "shortDescription" : "Opis przedmiotu 4",
       "imageUrl": "https://f00.esfr.pl/foto/7/14762679257/c97130695f055dee0781494ad860cd5d/tracer-blaster-x-rf-nano,14762679257_3.jpg"
     },
     {
       "id": 5,
-      "title": "Przedmiot5"
-      "shortDescription" : "Opis przedmiotu 5"
+      "title": "Przedmiot5",
+      "shortDescription" : "Opis przedmiotu 5",
       "imageUrl": "https://f00.esfr.pl/foto/9/34278802345/f6d821e44a0647f25798eb27e3f48df/msi-nightblade-mi3-7rb-087pl-intel-core-i5-8400-8gb-1tb-16gb-optane-gtx1050ti-w10,34278802345_3.jpg"
     },
     {
       "id": 6,
-      "title": "Przedmiot6"
-      "shortDescription" : "Opis przedmiotu 6"
+      "title": "Przedmiot6",
+      "shortDescription" : "Opis przedmiotu 6",
       "imageUrl": "https://f00.esfr.pl/foto/8/28571171697/88c4d1f8763969bc3923d05846d3fc7f/tracer-ofis-usb,28571171697_3.jpg"
     },
     {
       "id": 7,
-      "title": "Przedmiot7"
-      "shortDescription" : "Opis przedmiotu 7"
+      "title": "Przedmiot7",
+      "shortDescription" : "Opis przedmiotu 7",
       "imageUrl": "https://f00.esfr.pl/foto/1/23782218361/29489893ec002a67b0ea93a8e0f06385/asus-cerberus-,23782218361_3.jpg"
     },
     {
       "id": 8,
-      "title": "Przedmiot8"
-      "shortDescription" : "Opis przedmiotu 8"
+      "title": "Przedmiot8",
+      "shortDescription" : "Opis przedmiotu 8",
       "imageUrl": "https://f00.esfr.pl/foto/9/34278802345/f6d821e44a0647f25798eb27e3f48df/msi-nightblade-mi3-7rb-087pl-intel-core-i5-8400-8gb-1tb-16gb-optane-gtx1050ti-w10,34278802345_3.jpg"
     },
     {
       "id": 9,
-      "title": "Przedmiot9"
-      "shortDescription" : "Opis przedmiotu 9"
+      "title": "Przedmiot9",
+      "shortDescription" : "Opis przedmiotu 9",
       "imageUrl": "https://f00.esfr.pl/foto/1/23782218361/29489893ec002a67b0ea93a8e0f06385/asus-cerberus-,23782218361_3.jpg"
     },
     {
       "id": 10,
-      "title": "Przedmiot10"
-      "shortDescription" : "Opis przedmiotu 10"
+      "title": "Przedmiot10",
+      "shortDescription" : "Opis przedmiotu 10",
       "imageUrl": "https://f00.esfr.pl/foto/8/28571171697/88c4d1f8763969bc3923d05846d3fc7f/tracer-ofis-usb,28571171697_3.jpg"
     },
     {
       "id": 11,
-      "title": "Przedmiot11"
-      "shortDescription" : "Opis przedmiotu 11"
+      "title": "Przedmiot11",
+      "shortDescription" : "Opis przedmiotu 11",
       "imageUrl": "https://f00.esfr.pl/foto/7/14762679257/c97130695f055dee0781494ad860cd5d/tracer-blaster-x-rf-nano,14762679257_3.jpg"
     },
     {
       "id": 12,
-      "title": "Przedmiot12"
-      "shortDescription" : "Opis przedmiotu 12"
+      "title": "Przedmiot12",
+      "shortDescription" : "Opis przedmiotu 12",
       "imageUrl": "https://f00.esfr.pl/foto/1/23782218361/29489893ec002a67b0ea93a8e0f06385/asus-cerberus-,23782218361_3.jpg"
     },
     {
       "id": 13,
-      "title": "Przedmiot13"
-      "shortDescription" : "Opis przedmiotu 13"
+      "title": "Przedmiot13",
+      "shortDescription" : "Opis przedmiotu 13",
       "imageUrl": "https://f00.esfr.pl/foto/8/28571171697/88c4d1f8763969bc3923d05846d3fc7f/tracer-ofis-usb,28571171697_3.jpg"
     },
     {
       "id": 14,
-      "title": "Przedmiot14"
-      "shortDescription" : "Opis przedmiotu 14"
+      "title": "Przedmiot14",
+      "shortDescription" : "Opis przedmiotu 14",
       "imageUrl": "https://f00.esfr.pl/foto/9/34278802345/f6d821e44a0647f25798eb27e3f48df/msi-nightblade-mi3-7rb-087pl-intel-core-i5-8400-8gb-1tb-16gb-optane-gtx1050ti-w10,34278802345_3.jpg"
     },
     {
       "id": 15,
-      "title": "Przedmiot15"
-      "shortDescription" : "Opis przedmiotu 15"
+      "title": "Przedmiot15",
+      "shortDescription" : "Opis przedmiotu 15",
       "imageUrl": "https://f00.esfr.pl/foto/7/14762679257/c97130695f055dee0781494ad860cd5d/tracer-blaster-x-rf-nano,14762679257_3.jpg"
     }
 }
